@@ -1,0 +1,23 @@
+{
+  "name": "teamaniss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MieRebus/tea.git"
+  },
+  "keywords": [
+    "teamaniss"
+  ],
+  "author": "MieRebus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MieRebus/tea/issues"
+  },
+  "homepage": "https://github.com/MieRebus/tea#readme",
+  "source": "https://github.com/MieRebus/tea.git"
+}
